@@ -1,1 +1,3 @@
-# stepik_course_auto_tests
+# Homework for Stepik
+
+Для хранения домашних заданий с курса по автоматизации через Selenium – https://stepik.org/course/575/syllabus
