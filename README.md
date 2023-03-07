@@ -1,0 +1,1 @@
+# stepik_course_auto_tests
